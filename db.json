@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "firstName": "Vikas ",
+      "lastName": "Gupta",
+      "email": "vikas@gmail.com",
+      "id": 8
+    },
+    {
+      "firstName": "ankit",
+      "lastName": "gupta",
+      "email": "ankit123@gmail.com",
+      "userId": 10,
+      "id": 10
+    },
+    {
+      "firstName": "Naman",
+      "lastName": "Gupta",
+      "email": "namangupta@gmail",
+      "userId": 11,
+      "id": 11
+    },
+    {
+      "firstName": "Pankaj ",
+      "lastName": "Tripathi",
+      "email": "pankaj@gmail.com",
+      "id": 12
+    },
+    {
+      "firstName": "Shubham Kumar",
+      "lastName": "saini",
+      "email": "shubham123@gmail.com",
+      "userId": 13,
+      "id": 13
+    },
+    {
+      "firstName": "Aman",
+      "lastName": "verma",
+      "email": "amangupta111@gmail.com",
+      "userId": 14,
+      "id": 14
+    }
+  ]
+}
